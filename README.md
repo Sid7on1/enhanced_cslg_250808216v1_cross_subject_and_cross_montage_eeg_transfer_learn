@@ -1,0 +1,2 @@
+# enhanced_cslg_250808216v1_cross_subject_and_cross_montage_eeg_transfer_learn
+AI-Generated Project: enhanced_cs.LG_2508.08216v1_Cross_Subject_and_Cross_Montage_EEG_Transfer_Learn - Created by WATCHDOG Multi-Agent System
